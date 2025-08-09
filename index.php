@@ -22,7 +22,7 @@
 
      	<button type="submit">Login</button>
           <a href="signup.php" class="ca">Register Course</a>
-		  <a href="home.html" class="ca" style="color: red;">Home</a>
+		  <a href="index.html" class="ca" style="color: red;">Home</a>
 
      </form>
 </body>
